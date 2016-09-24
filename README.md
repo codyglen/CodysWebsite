@@ -1,2 +1,2 @@
-# Cody-s-Website
+# CodysWebsite
 MyWebsite
